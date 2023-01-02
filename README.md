@@ -6,7 +6,9 @@ Topics Include:
 
  1.Preparing for Installation
  2.Installing cPanel/WHM
-**Prepare for Installation**
+
+
+<h1>**Prepare for Installation**<h1>
 Before you can install cPanel/WHM on CentOS, you will first need to disable your server’s firewall, the Network Manager, and SELinux.  
 
 1. First, stop the service using the following command:
